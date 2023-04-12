@@ -1,4 +1,5 @@
-### What is cloud computing?
+What is cloud computing?
+-
 
 Cloud computing is the delivery of computing services over the internet or "the cloud" such as:
 
@@ -39,3 +40,31 @@ Cloud computing can help with:
 - better agility
 - accessing advanced technologies that could be expensive or difficulty to deploy on local machine
 
+DevOps role
+-
+
+### What is DevOps?
+
+DevOps is combination of practises, tools and cultural philosophies that increase 
+organization's ability to deliver apps and services more efficiently. It also allows development 
+and IT operations to collaborate and work together.
+
+### Why DevOps?
+
+DevOps helps organizations to deliver software faster, with better quality and reliability
+while continuously improving communication and collaboration between teams. It also helps to reduce costs.
+
+### Benefits of DevOps?
+
+- faster time-to-market 
+- improved quality
+- better reliability of software releases
+- increased collaboration and communication
+- better visibility and transparency into the software development process
+
+### The four key pillars of DevOps are:
+
+- Culture: DevOps promotes the culture of collaborations, communication and continuous improvement.
+- Automation: DevOps relies on automation to streamline processes and reduce manual effort.
+- Measurement: DevOps highlight the importance of measuring performance and using data to make decisions.
+- Sharing: DevOps encourages sharing knowledge, tools and resources to improve efficiency and productivity.
