@@ -8,7 +8,6 @@ Cloud computing is the delivery of computing services over the internet or "the 
 - networking
 - software
 - analytics
-- analytics
 
 ### Benefits of cloud computing:
 
