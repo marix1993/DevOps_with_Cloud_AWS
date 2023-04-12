@@ -1,5 +1,7 @@
-What is cloud computing?
+CLOUD - AWS
 -
+
+### What is cloud computing?
 
 Cloud computing is the delivery of computing services over the internet or "the cloud" such as:
 
@@ -39,6 +41,23 @@ Cloud computing can help with:
 - increasing efficiency
 - better agility
 - accessing advanced technologies that could be expensive or difficulty to deploy on local machine
+
+### Login in AWS
+![AWS.png](AWS.png)
+
+(GitBash commands)
+
+`mv file_name_to_move(mateusz...) location_where_you_want_to_move_it (~/.ssh)`
+
+`cd .ssh` access .ssh file 
+
+`nano tech221.pem` open up notepad and paste KEY
+
+`ctrl + s (save)   &   ctrl + x (close)`
+
+`cat tech221.pem` to check changes in tech221.pem file
+
+
 
 DevOps role
 -
