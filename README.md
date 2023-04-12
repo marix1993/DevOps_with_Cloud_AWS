@@ -63,6 +63,7 @@ DevOps role
 -
 
 ### What is DevOps?
+![DevOps.png](DevOps.png)
 
 DevOps is combination of practises, tools and cultural philosophies that increase 
 organization's ability to deliver apps and services more efficiently. It also allows development 
