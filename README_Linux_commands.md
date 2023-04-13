@@ -1,0 +1,39 @@
+Useful Linux commands (GitBash)
+-
+
+- `clear` - clear GitBash
+- `exit` - exit directory
+- `ll` - shows permission of file
+- `ls` - list the files in directory
+- `ls -a` list all the files in directory
+- `top` - list all the processes
+- `whoami` - shows operating system
+- `pwd` - show me exactly where I am
+- `uname` - gives us username Linux
+- `uname -a` - gives us all the information
+- `mkdir tech221` - make new directory tech221
+- `cd tech221` - move to directory tech221
+- `cd ..` - moves one directory back
+- `touch tech221.txt` - make new .txt file
+- `nano tech221.txt` - open
+- `cat tech221.txt` - shows the content of tech221.txt
+- `cp tech221.txt tech221` - copy tech221.txt to folder tech221
+- `rm tech221.txt` - remove tech221.txt
+- `mv tech221.txt tech221` - move tech221.txt to folder tech221
+- `chmod 700 tech221.txt` - change the rights of the owner to rwx
+- `history` - shows all the previous commands
+- `ls | tail -1` list last file created
+- `tail -1` first line in file
+- `tail -2` last two lines in file
+- `rm -rf file` - to force remove file
+- `ps aux | grep bash` - process that are running using bash
+- `sudo kill <id>` - kill the process
+- `sudo su` - to use root user (to come out of it type exit)
+- `sudo apt update -y` - downloads to new things
+- `sudo apt upgrade` - switches to using the new things
+- `sudo apt install nginx -y` - installs nginx (which is a webserver)
+- `sudo systemctl status nginx` - shows us current status of nginx
+- `sudo systemctl stop nginx` - stops nginx
+- `sudo systemctl stop nginx` - starts nginx
+- `sudo systemctl enable nginx` - everytime the system started it will run
+- `sudo nano <file>` - to create a file
